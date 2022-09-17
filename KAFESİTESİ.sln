@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "KAFESİTESİ", "KAFESİTESİ\", "{E6A24343-3DB0-449C-AE93-B1DD2E695E31}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64186"
+		Debug.AspNetCompiler.PhysicalPath = "KAFESİTESİ\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64186\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64186"
+		Release.AspNetCompiler.PhysicalPath = "KAFESİTESİ\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64186\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64186"
+		SlnRelativePath = "KAFESİTESİ\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A24343-3DB0-449C-AE93-B1DD2E695E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A24343-3DB0-449C-AE93-B1DD2E695E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A9EA76-F026-49EA-BE43-9032BEF98103}
+	EndGlobalSection
+EndGlobal
